@@ -1,0 +1,41 @@
+html { height: 100% }
+body { height: 100%; margin: 0px; padding: 0px; }
+#map_canvas { height: 78%; }
+
+html, body {
+  background: #EEE;
+  font-family: Arial;
+  font-size: 13px;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  background: #385C85;
+  color: #FFF;
+  padding: 10px;
+  padding-left: 20px;
+  margin-top: 0px;
+}
+
+h2 {
+  margin-top: 0;
+  padding-left: 20px;
+}
+
+h2 a {
+  color: #385C85;
+}
+
+p {
+  padding-left: 20px;
+  line-height: 1.3em;
+}
+
+p a {
+  color: #385C85;
+}
+
+.info-box p { padding: 0;}
+.info-box h2 { padding: 0;}
+.info-box img { border: 0;}
